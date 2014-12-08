@@ -8,3 +8,8 @@ int main()
 new_func(){
 	printf("A new func()");
 }
+
+bugabuga()
+{
+	printf("buga buga");
+}
