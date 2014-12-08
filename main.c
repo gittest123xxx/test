@@ -8,3 +8,7 @@ int main()
 new_func(){
 	printf("A new func()");
 }
+
+func_2(){
+		printf("A funky func");
+}
